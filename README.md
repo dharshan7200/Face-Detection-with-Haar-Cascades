@@ -196,7 +196,6 @@ cap.release()
 plt.close()
 
 ```
-![image](https://github.com/user-attachments/assets/856d7c27-43fe-4919-8709-c1c1743e34b0)
 
 
 
