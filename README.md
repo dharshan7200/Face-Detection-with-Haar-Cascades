@@ -199,3 +199,6 @@ plt.close()
 
 
 
+## RESULT:
+
+Hence the program is completed successfully.
